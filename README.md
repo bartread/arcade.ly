@@ -6,9 +6,7 @@ This repository exists to house code samples that arcade.ly makes available to i
 
 Currently available games:
 
-- Star Citadel - a homage to the 1980 Cinematronics game, Star Castle - available at [starcas.tl](http://starcas.tl)
-
-We recommend use of the domain hacks because the site is likely to undergo some structural reorganisation as more games are added and this will reduce the number of unnecessary redirects in the future.
+- **[Star Citadel](http://starcas.tl)** - a homage to the 1980 Cinematronics game, Star Castle
 
 We have a number of upcoming games planned or in development, including homages of classics such as Space Invaders, Asteroids, and Missile Command.
 
